@@ -1,0 +1,61 @@
+Etiquetas HTML:
+- **HTML**: Define el comienzo y el final del documento HTML.
+- **HEAD**: Contiene información sobre el documento HTML, como el título de la página, enlaces a hojas de estilo, metadatos, scripts, etc.
+- **TITLE**: Define el título de la página que se muestra en la barra de título del navegador.
+- **BASE**: Define la URL base para todas las URL relativas en una página.
+- **LINK**: Define la relación entre el documento actual y un recurso externo, como una hoja de estilo.
+- **META**: Proporciona metadatos sobre el documento HTML, como la codificación de caracteres, la descripción, etc.
+- **STYLE**: Define estilos CSS internos en el documento HTML.
+- **SCRIPT**: Define scripts JavaScript internos en el documento HTML.
+- **NOSCRIPT**: Proporciona contenido alternativo para usuarios que tienen desactivado JavaScript en su navegador.
+- **BODY**: Define el cuerpo del documento HTML.
+- **H1 - H6**: Encabezados de diferentes niveles para estructurar y jerarquizar el contenido.
+- **P**: Define un párrafo de texto.
+- **A**: Crea enlaces a otras páginas web o recursos.
+- **IMG**: Incrusta imágenes en una página web.
+- **VIDEO**: Incrusta archivos de video en la página web.
+- **AUDIO**: Incrusta archivos de audio en la página web.
+- **IFRAME**: Incrusta otra página HTML dentro de la página actual.
+- **UL**: Define una lista desordenada.
+- **OL**: Define una lista ordenada.
+- **LI**: Define un elemento de lista dentro de UL o OL.
+- **DL**: Define una lista de descripción.
+- **DT**: Define un término en una lista de descripción.
+- **DD**: Define la descripción de un término en una lista de descripción.
+- **TABLE**: Define una tabla.
+- **TR**: Define una fila dentro de una tabla.
+- **TD**: Define una celda de datos dentro de una fila en una tabla.
+- **TH**: Define una celda de encabezado dentro de una fila en una tabla.
+- **THEAD**: Define el encabezado de una tabla.
+- **TBODY**: Define el cuerpo de una tabla.
+- **TFOOT**: Define el pie de una tabla.
+- **FORM**: Crea formularios interactivos donde los usuarios pueden enviar datos.
+- **INPUT**: Crea diferentes tipos de campos de entrada dentro de un formulario.
+- **TEXTAREA**: Define un área de texto de varias líneas dentro de un formulario.
+- **BUTTON**: Crea un botón interactivo.
+- **SELECT**: Crea un menú desplegable dentro de un formulario.
+- **OPTION**: Define una opción en un menú desplegable SELECT.
+- **OPTGROUP**: Agrupa opciones relacionadas en un menú desplegable SELECT.
+- **LABEL**: Define una etiqueta para un elemento de formulario.
+- **FIELDSET**: Agrupa elementos relacionados en un formulario y crea un borde alrededor de ellos.
+- **LEGEND**: Define un título legible para el elemento FIELDSET.
+- **DIV**: Crea divisiones o secciones en una página web.
+- **SPAN**: Aplica estilos o scripts a una parte específica de texto dentro de un elemento.
+- **HEADER**: Define un encabezado para un grupo de contenido o una sección.
+- **FOOTER**: Define un pie de página para un grupo de contenido o una sección.
+- **NAV**: Define enlaces de navegación.
+- **ARTICLE**: Define contenido independiente que podría ser distribuido y reutilizado de forma independiente.
+- **SECTION**: Define una sección en un documento.
+- **ASIDE**: Define contenido secundario que está relacionado con el contenido que lo rodea.
+- **MAIN**: Define el contenido principal o más importante en un documento.
+- **PRE**: Define texto preformateado, que conserva tanto los espacios en blanco como los saltos de línea.
+- **CODE**: Define una pieza de código.
+- **ABBR**: Define una abreviatura o un acrónimo.
+- **CITE**: Define el título de una obra citada.
+- **TIME**: Define una fecha o hora.
+- **MARK**: Resalta o marca un fragmento de texto.
+- **RUBY**: Define una anotación ruby para caracteres chinos o japoneses.
+- **RT**: Define el texto de anotación ruby.
+- **RP**: Define lo que se muestra cuando el navegador no soporta la anotación ruby.
+- **DETAILS**: Define detalles adicionales que el usuario puede mostrar u ocultar.
+- **SUMMARY**: Define un encabezado visible para los detalles adicionales DETAILS.****

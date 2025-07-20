@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"cc8d1847ab7dcd39","type":"text","text":"## **Interoperabilidad**\nGeneracion de un recurso util y versatil en cuestion a las diferentes tecnoliogias y lenguajes presentes. ","x":-1600,"y":-1307,"width":460,"height":180},
+		{"id":"b71e7080402b6863","type":"text","text":"## **Reutilizacion de servicios**\nUso de un mismo servicio bajos varios contextos.","x":-630,"y":-1307,"width":390,"height":155},
+		{"id":"4ec0b5252f137e3d","type":"text","text":"## **Servicio**\nProceso  especifico independiente que puede ser consumido por terceros.","x":-1100,"y":-1312,"width":440,"height":160},
+		{"id":"959d67a2a0093ee7","type":"text","text":"## **Seguridad y gobernanza**\nProteccion de la integridad del API, control de acceso.","x":-630,"y":40,"width":410,"height":190},
+		{"id":"eb090a2c5654ee82","type":"text","text":"## **Orquestacion de servicios**\nCoordinacion y combinacion de servicios para procedimientos complejos.","x":-1100,"y":30,"width":410,"height":200},
+		{"id":"d4ed52cbf12593c7","type":"text","text":"## **Escalabilidad**\nCapacidad de mejora y creciente soporte de un servicio.","x":-1640,"y":30,"width":500,"height":200},
+		{"id":"1e9c426e778b00ff","type":"text","text":"## **Microservicio**\nCreacion de sunprocesos definidos.","x":-320,"y":-1080,"width":405,"height":155},
+		{"id":"a53a047837b2b284","type":"text","text":"## **Aplicacion Mash up**\nPermite consumir varios servicios","x":-250,"y":-855,"width":405,"height":155},
+		{"id":"e48ca239b677d46a","type":"text","text":"## **Independencia de plataforma**\nGeneracion de API con para consumirla en x plataforma.","x":-220,"y":-456,"width":405,"height":176},
+		{"id":"d6d03c3fb5ff5df0","type":"text","text":"## **Descubrimiento de servicios**\nMecanismos para asegurar el eswtado online de una aplicacion.","x":-320,"y":-200,"width":410,"height":175},
+		{"id":"d86e610ce1579162","type":"text","text":"## **Modularidad**\nAislamiento de procesos.","x":-117,"y":-616,"width":405,"height":160},
+		{"id":"639c2f46d2fd176f","type":"text","text":"# **Conceptos basicos de aplicaciones orientadas a servicios**","x":-1600,"y":-644,"width":580,"height":217,"color":"#9e0000"}
+	],
+	"edges":[
+		{"id":"26233e1f550c5efb","fromNode":"d86e610ce1579162","fromSide":"left","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"f9df7ebde5e9b32b","fromNode":"e48ca239b677d46a","fromSide":"left","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"b9c8f3fa31cc76c4","fromNode":"cc8d1847ab7dcd39","fromSide":"bottom","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"2558b9f82e869340","fromNode":"4ec0b5252f137e3d","fromSide":"bottom","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"6dbce263f7a1d3c1","fromNode":"b71e7080402b6863","fromSide":"bottom","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"9585fffae1548d7b","fromNode":"1e9c426e778b00ff","fromSide":"left","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"85721edfd04c253e","fromNode":"a53a047837b2b284","fromSide":"left","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"dffa352394542fca","fromNode":"d6d03c3fb5ff5df0","fromSide":"left","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"1e165a526c6e70b9","fromNode":"959d67a2a0093ee7","fromSide":"top","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"bf963c24dd54a909","fromNode":"d4ed52cbf12593c7","fromSide":"top","toNode":"639c2f46d2fd176f","toSide":"right"},
+		{"id":"c8c397cb6e760db4","fromNode":"639c2f46d2fd176f","fromSide":"right","toNode":"eb090a2c5654ee82","toSide":"top"}
+	]
+}
